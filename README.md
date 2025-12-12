@@ -45,28 +45,6 @@ A modern, elegant, and responsive multi-calculator web application built using <
 | **Vercel** | Deployment |
 
 ---
-
-## 📁 Folder Structure
-
-src/
-│
-├── assets/                 # Images & icons
-├── components/
-│   ├── calculators/        # All calculator components
-│   ├── ui/                 # Reusable UI components
-│   ├── CalculatorCard.tsx
-│   ├── CalculatorGrid.tsx
-│   ├── Navbar.tsx
-│   ├── Footer.tsx
-│   └── Hero.tsx
-│
-├── styles/                 # Global CSS
-├── App.tsx
-├── main.tsx
-└── index.html
-
----
-
 ## 🛠 Installation & Setup
 
  1️⃣ Clone the repository
