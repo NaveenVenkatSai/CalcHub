@@ -69,8 +69,8 @@ src/
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone the repository
-```sh
+ 1️⃣ Clone the repository
+
 git clone https://github.com/NaveenVenkatSai/CalcHub.git
 cd CalcHub
 
@@ -122,22 +122,20 @@ Root Directory
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to open a Pull Request or Issue.
+Contributions, issues, and feature requests are welcome.
 
+---
 
+## ⭐ Support
 
-⭐ Support
+If you like this project, please ⭐ the repo!  
+Your support motivates future updates.
 
-If you like this project, please consider giving it a ⭐ on GitHub!
-Your support motivates me to add more calculators & features.
+---
 
+## 👨‍💻 Author
 
-
-👨‍💻 Author
-
-Naveen Venkat Sai Chebrolu
-CSE with IoT • Designer • Web Developer
-Passionate about UI/UX and building useful tools.
+**Naveen Venkat Sai Chebrolu**  
+CSE with IoT • UI/UX & Web Developer
